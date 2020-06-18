@@ -4,6 +4,21 @@
             "name" : "Vue",
             "url" : "https://glitch.com/edit/#!/remix/vue",
             "img" : "https://icongr.am/devicon/vuejs-original.svg?size=64"
+        },
+        {
+            "name" : "React",
+            "url" : "https://glitch.com/edit/#!/remix/starter-react",
+            "img" : "https://icongr.am/devicon/react-original.svg?size=64"
+        },
+        {
+            "name" : "Typescript",
+            "url" : "https://glitch.com/edit/#!/remix/ts",
+            "img" : "https://icongr.am/devicon/typescript-original.svg?size=64"
+        },
+        {
+            "name" : "Python",
+            "url" : "https://glitch.com/edit/#!/remix/python-starter-app",
+            "img" : "https://icongr.am/devicon/python-original.svg?size=64"
         }
     ]
 }

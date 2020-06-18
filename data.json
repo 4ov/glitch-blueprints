@@ -1,3 +1,9 @@
 {
-    "apps" : []
+    "apps" : [
+        {
+            "name" : "Vue",
+            "url" : "https://glitch.com/edit/#!/remix/vue",
+            "img" : "https://icongr.am/devicon/vuejs-original.svg?size=64"
+        }
+    ]
 }

@@ -19,6 +19,21 @@
             "name" : "Python",
             "url" : "https://glitch.com/edit/#!/remix/python-starter-app",
             "img" : "https://icongr.am/devicon/python-original.svg?size=64"
+        },
+        {
+            "name" : "Apache",
+            "url" : "https://glitch.com/edit/#!/remix/php-poc",
+            "img" : "https://icongr.am/devicon/apache-original.svg"
+        },
+        {
+            "name" : "Empty",
+            "url" : "https://glitch.com/edit/#!/remix/empty-welcome",
+            "img" : "https://cdn.glitch.com/project-avatar/47de33c8-3df7-4b66-adf2-fdb2279c3913.png?2018-02-12T16:16:42.316Z"
+        },
+        {
+            "name" : "Parcel",
+            "url" : "https://glitch.com/edit/#!/remix/parcel-starter-app",
+            "img" : "https://parceljs.org/assets/parcel.png"
         }
     ]
 }
